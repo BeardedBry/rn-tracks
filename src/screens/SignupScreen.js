@@ -11,6 +11,7 @@ const SignupScreen = ({ navigation }) => {
         <Input label="Email" />
         <Spacer />
         <Input label="Password" />
+        <Spacer />
         <Spacer>
             <Button title="Sign Up" />
         </Spacer>
